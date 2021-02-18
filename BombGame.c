@@ -1,12 +1,4 @@
-/*
-    ==================================================
-    Workshop #5 (Part-1):
-    ==================================================
-    Name   : Nasim Khodapanah
-    ID     : 131929200
-    Email  : nkhodapanah@myseneca.ca
-    Section: NGG
-*/
+
 #include <stdio.h>
 #define MAX_PATH_LEN 70
 #define MIN_PATH_LEN 10
